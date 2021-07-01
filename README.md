@@ -1,1 +1,3 @@
-# BN-Google-Python-Work-Sample
+Jonathan Hutchinson
+Bright Network Google Work Sample
+Python
